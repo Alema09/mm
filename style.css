@@ -1,0 +1,61 @@
+@media(max-width:768px) {
+    #post {
+        width: 100%
+    }
+}
+body {
+  margin: 0 auto;
+  background: url(https://images.squarespace-cdn.com/content/v1/5c9a6e978d97401101856bdf/1553747580711-K7DPVKL4XWI470USUODZ/ke17ZwdGBToddI8pDm48kPG9nNpfrwmzHqa1bIQlkmt7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UYmQ0SrFUzoCpiA4yOtSO_KJF60BYyIjLev7cD1rM0iMX6RhNupuagNJiMtWgtMC3w/uczgllisqglotqvznuif.jpg?format=2500w);
+  background-attachment: fixed;
+ }
+ .navbar-expand-lg {
+     background-color: white;
+ }
+ .logo {
+   margin-left: 100px;
+ }
+ .logotip {
+   width:200px;
+   height: 40px;
+ }
+ .nav-item {
+   margin-left: 70px;
+ }
+ .nav-link {
+   text-decoration: underline;
+ }
+
+ .row {
+   display: inline;
+ }
+
+ .section1 {
+  padding: 5px;
+  background-color: #777;
+  border: 2px solid #707070;
+  color: white;
+  font-size: 40px;
+  font-family: 'Bad Script';font-size: 50px;
+ }
+
+ .footer {
+   width: 100%;
+   height: auto;
+   background-color: #2b3a40;
+   padding-top: 50px;
+   padding-bottom: 25px;
+   color: white;
+ }
+ .logoContainer {
+   width:200px;
+   height: 40px;
+
+ }
+ .LogoFooter {
+   font-family: 'Trebuchet MS', serif;
+   background: #fff;
+   color: black;
+   display: inline-block;
+   font-weight:bold;
+
+ }
